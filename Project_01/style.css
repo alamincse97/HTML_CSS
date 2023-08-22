@@ -14,7 +14,7 @@ body {
 .flag img {
   width: 400px;
 }
-.left-side {
+.left-sdie {
   width: 50%;
 }
 .details {
@@ -26,4 +26,44 @@ body {
   color: #fff;
   border: none;
   margin-top: 15px;
+}
+.divission {
+  text-align: center;
+  width: 90%;
+  margin: auto;
+  padding: 50px;
+}
+.dhaka {
+  width: 300px;
+  /* border: 1px solid gray; */
+
+  border-radius: 5px;
+  box-shadow: 4px 4px 12px gray;
+}
+.photo img {
+  width: 100%;
+}
+.second-section {
+  padding: 10px;
+}
+.all-divisions {
+  display: flex;
+  /* align-items: space-around; */
+  justify-content: space-around;
+}
+.description {
+  text-align: left;
+}
+.div-btn {
+  padding: 10px 30px;
+  border: none;
+  background-color: aqua;
+  font: 16px;
+}
+
+.footer-content {
+  margin-top: 50px;
+}
+.footer-content {
+  text-align: center;
 }
